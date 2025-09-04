@@ -1,6 +1,6 @@
 # About Me
 
-Iam a passionate developer with a love for all things code, chess, and a dash of digital mischief. You’ll usually find me juggling TypeScript, JavaScript, and C/C++ across my many projects—or cracking a puzzle on LeetCode with the same gusto I bring to a chess match.
+Iam a passionate developer with a love for all things code, chess, and a dash of digital mischief. You’ll usually find me juggling TypeScript, python, and go across my many projects—or cracking a puzzle on LeetCode with the same gusto I bring to a chess match.
 
 ## 🛠️ My Playground
 
