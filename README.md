@@ -62,10 +62,13 @@ Right now I’m focused on:
 
 ## 📫 Let’s Connect
 
+i'm active mostly on instagram message me on instagram to get fast response, or emai me.
+
 - 🌐 Portfolio: https://sarwanazhar.vercel.app/  
-- LinkedIn: https://linkedin.com/in/sarwanazhar007  
-- Twitter: https://x.com/_SarwanAzhar_  
 - Instagram: https://instagram.com/s.m_sarwan_ali
+- LinkedIn: https://linkedin.com/in/sarwanazhar007  
+- Twitter: https://x.com/_SarwanAzhar_
+- Discord username: fast_typer
 
 ---
 
