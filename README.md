@@ -1,21 +1,57 @@
-# About Me
+# 👋 Hi, I'm Sarwan Azhar (age 17)
 
-Iam a passionate developer with a love for all things code, chess, and a dash of digital mischief. You’ll usually find me juggling TypeScript, python, and golang across my many projects—or cracking a puzzle on LeetCode with the same gusto I bring to a chess match.
+**Full‑stack App Developer | Javascript | TypeScript | Go | Cybersecurity Enthusiast**
 
-## 🛠️ My Playground
-
-- **expo-cheessboard**: it's a npm package for chessboard which can be integrated in expo to make multiplayer chess app or single player using ai. you can check it out in react native just by npm install expo-chessboard
-- **Chess Enthusiast & Coder**: Check out my **chess-frontend** and **backend-chess** repos, where I blend strategy and code to create digital chessboards that (almost) never flip themselves over in frustration.
-- **CourseHub Creator**: Both the **CourseHub_Frontend** and **CourseHub_backend** are my attempts to make learning smoother, friendlier, and just a bit more fun (if you ignore the occasional "unexpected token" error).
-- **Storefront Sorcery**: With **HumiStore**, I’ve conjured up a TypeScript-powered virtual marketplace. No magic wands, just clean code!
-## 🕵️‍♂️ Cyber Security & Problem Solving
-
-When I’m not building apps or online stores, I’m flexing my cyber security muscles—keeping code safe from bugs, backdoors, and the occasional bugbear. And of course, LeetCode is my battleground for algorithmic duels and brain-bending fun.
-
-## 🎯 Let’s Connect!
-
-Whether you want to talk shop, play a game of chess, or share your favorite security tips, I’m all ears (and code). Let’s build, break, and solve things—together!
+🌍 Based in Karachi, Pakistan  
+🚀 Building modern apps & learning new tech every day
 
 ---
 
-*“Code is like chess: every move counts, and sometimes you just have to castle early.”*
+## 💻 About Me
+
+I'm a passionate developer who loves creating cool apps and solving problems with code. I work mainly with **JavaScript**, **TypeScript**, and **Go**, but I’m always exploring new tools and technologies. When I’m not coding, you’ll find me playing chess, solving algorithms on LeetCode, or experimenting with cybersecurity projects. :contentReference[oaicite:1]{index=1}
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript, TypeScript, Python, Go  
+**Frontend:** React, Expo, Next.js  
+**Backend:** Node.js, Express  
+**Tools:** Git, Vercel, Cloudinary, Docker (learning)
+
+---
+
+## 🔭 Featured Projects
+
+Here are a few repositories I’m most proud of:
+
+### 📌 Apps & Games
+- **expo‑chessboard** – A multiplayer chessboard component for Expo/React Native  
+- **Online‑Chess‑App** – React Native chess app  
+- **CourseHub** – A learning platform project (frontend + backend)  
+- **Adhaan‑App** – Mobile app for prayer times  
+- **chatappbackend** – Backend for a chat app in Go
+
+---
+
+## 🚀 What I’m Working On
+
+Right now I’m focused on:
+- Improving **Cyber Security skills**
+- Building more full‑stack apps
+- Learning performance and scalable backend architectures
+- studying cause im still in school 😎 just learning skills on free time
+
+---
+
+## 📫 Let’s Connect
+
+- 🌐 Portfolio: https://sarwanazhar.vercel.app/  
+- LinkedIn: https://linkedin.com/in/sarwanazhar007  
+- Twitter: https://x.com/_SarwanAzhar_  
+- Instagram: https://instagram.com/s.m_sarwan_ali
+
+---
+
+⭐ *“Code is like chess: every move counts, and sometimes you just have to castle early.”*
