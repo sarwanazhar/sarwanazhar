@@ -9,7 +9,7 @@
 
 ## 💻 About Me
 
-I'm a passionate developer who loves creating cool apps and solving problems with code. I work mainly with **JavaScript**, **TypeScript**, and **Go**, but I’m always exploring new tools and technologies. When I’m not coding, you’ll find me playing chess, solving algorithms on LeetCode, or experimenting with cybersecurity projects. :contentReference[oaicite:1]{index=1}
+I'm a passionate developer who loves creating cool apps and solving problems with code. I work mainly with **JavaScript**, **TypeScript**, and **Go**, but I’m always exploring new tools and technologies. When I’m not coding, you’ll find me playing chess, solving algorithms on LeetCode, or experimenting with cybersecurity projects.
 
 ---
 
