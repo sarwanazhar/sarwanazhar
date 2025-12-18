@@ -64,6 +64,7 @@ Right now I’m focused on:
 
 i'm active mostly on instagram message me on instagram to get fast response, or emai me.
 
+the portfolio is outdated ill update it when i feel like jt 🫠😁
 - 🌐 Portfolio: https://sarwanazhar.vercel.app/  
 - Instagram: https://instagram.com/s.m_sarwan_ali
 - LinkedIn: https://linkedin.com/in/sarwanazhar007  
