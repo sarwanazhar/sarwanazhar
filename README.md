@@ -11,7 +11,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 <!-- GitHub Followers & Stars -->
-![GitHub followers](https://img.shields.io/github/followers/sarwanazhar.svg?style=social&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=sarwanazhar&label=Profile%20Views&color=0e75b6&style=flat)
 ![GitHub stars](https://img.shields.io/github/stars/sarwanazhar?style=social)
 
 **Full‑stack & Mobile App Developer | JavaScript | TypeScript | Go | Cybersecurity Enthusiast**
