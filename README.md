@@ -31,9 +31,9 @@ I'm a passionate developer who loves creating cool apps and solving problems wit
 
 **Languages:** JavaScript, TypeScript, Python, Go  
 **Frontend:** React, Expo, Next.js  
-**Mobile:** React Native, Flutter, Jetpack Compose  
-**Backend:** Node.js, Express  
-**Tools:** Git, Vercel, Cloudinary, Docker (learning)
+**Mobile:** React Native, Flutter, Jetpack Compose
+**Backend:** Node.js, Express, golang 
+**Tools:** Git, Vercel, Cloudinary, Docker
 
 ---
 
