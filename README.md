@@ -14,7 +14,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sarwanazhar&label=Profile%20Views&color=0e75b6&style=flat)
 ![GitHub stars](https://img.shields.io/github/stars/sarwanazhar?style=social)
 
-**Full‑stack & Mobile App Developer | JavaScript | TypeScript | Go | Cybersecurity Enthusiast**
+**Full‑stack & Mobile App Developer | JavaScript | TypeScript | Go **
 
 🌍 Based in Karachi, Pakistan  
 🚀 Building modern apps & learning new tech every day
@@ -53,7 +53,6 @@ Here are a few repositories I’m most proud of:
 ## 🚀 What I’m Working On
 
 Right now I’m focused on:  
-- Improving **Cyber Security skills**  
 - Building more full‑stack & mobile apps  
 - Learning performance and scalable backend architectures  
 - Studying because I’m still in school 😎 just learning skills in my free time
