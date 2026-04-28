@@ -45,8 +45,6 @@ Here are a few repositories I’m most proud of:
 - **expo‑chessboard** – A multiplayer chessboard component for Expo/React Native  
 - **Online‑Chess‑App** – React Native chess app  
 - **CourseHub** – A learning platform project (frontend + backend)  
-- **Adhaan‑App** – Mobile app for prayer times  
-- **chatappbackend** – Backend for a chat app in Go
 
 ---
 
@@ -55,7 +53,10 @@ Here are a few repositories I’m most proud of:
 Right now I’m focused on:  
 - Building more full‑stack & mobile apps  
 - Learning performance and scalable backend architectures  
-- Studying because I’m still in school 😎 just learning skills in my free time
+- Studying because I’m still in school 😎 just doing random stuff in my free time
+- Making a Game (yea really making a game im serious)
+- Learning Languages classic curiosity-driven hobby (not computer languages, languages like chinese japanese)
+- Playing Chess for fun 
 
 ---
 
