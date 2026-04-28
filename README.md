@@ -17,7 +17,7 @@
 **Full‑stack & Mobile App Developer | JavaScript | TypeScript | Go **
 
 🌍 Based in Karachi, Pakistan  
-🚀 Building modern apps & learning new tech every day
+🚀 Building modern full-stack and mobile applications
 
 ---
 
@@ -50,21 +50,20 @@ Here are a few repositories I’m most proud of:
 
 ## 🚀 What I’m Working On
 
-Right now I’m focused on:  
-- Building more full‑stack & mobile apps  
-- Learning performance and scalable backend architectures  
-- Studying because I’m still in school 😎 just doing random stuff in my free time
-- Making a Game (yea really making a game im serious)
-- Learning Languages classic curiosity-driven hobby (not computer languages, languages like chinese japanese)
-- Playing Chess for fun 
+- Building full-stack & mobile applications  
+- Learning scalable backend architecture  
+- Exploring cybersecurity & CTFs  
+- Developing a game (seriously 😄)  
+- Learning languages like Chinese & Japanese  
+- Playing chess for fun  
 
 ---
 
 ## 📫 Let’s Connect
 
-i'm active mostly on instagram message me on instagram to get fast response, or emai me.
+I'm most active on Instagram for quick responses, or you can email me.
 
-the portfolio is outdated ill update it when i feel like jt 🫠😁
+⚠️ Portfolio is currently being updated.
 - 🌐 Portfolio: https://sarwanazhar.vercel.app/  
 - Instagram: https://instagram.com/s.m_sarwan_ali
 - LinkedIn: https://linkedin.com/in/sarwanazhar007  
