@@ -25,7 +25,7 @@
 
 I'm a 17-year-old guy who’s just really curious about everything. I love diving into random interests, whether it's playing games, building them in Godot, experimenting with 3D stuff, or jumping into CTFs.
 
-I’ve been building cool apps and solving problems with code long before the era of AI and ChatGPT—I'm definitely not just a "vibe coder." My core toolkit includes JavaScript, TypeScript, and Go, plus React Native for mobile projects. I’m always exploring new tech, and when I’m not coding, you’ll usually find me playing chess, solving algorithms on LeetCode, or messing around with cybersecurity and web development.
+I’ve been building cool apps and solving problems with code long before the era of AI and ChatGPT I'm definitely not just a "vibe coder." My core toolkit includes JavaScript, TypeScript, and Go, plus React Native for mobile projects. I’m always exploring new tech just cause of curiosity!
 
 
 ---
