@@ -23,7 +23,10 @@
 
 ## 💻 About Me
 
-I'm a passionate developer who loves creating cool apps and solving problems with code. I work mainly with **JavaScript**, **TypeScript**, and **Go**, but I also build mobile apps using **React Native**, **Flutter**, and **Jetpack Compose**. I’m always exploring new tools and technologies. When I’m not coding, you’ll find me playing chess, solving algorithms on LeetCode, or experimenting with cybersecurity projects.
+I'm a 17-year-old guy who’s just really curious about everything. I love diving into random interests, whether it's playing games, building them in Godot, experimenting with 3D stuff, or jumping into CTFs.
+
+I’ve been building cool apps and solving problems with code long before the era of AI and ChatGPT—I'm definitely not just a "vibe coder." My core toolkit includes JavaScript, TypeScript, and Go, plus React Native for mobile projects. I’m always exploring new tech, and when I’m not coding, you’ll usually find me playing chess, solving algorithms on LeetCode, or messing around with cybersecurity and web development.
+
 
 ---
 
@@ -53,8 +56,7 @@ Here are a few repositories I’m most proud of:
 - Building full-stack & mobile applications  
 - Learning scalable backend architecture  
 - Exploring cybersecurity & CTFs  
-- Developing a game (seriously 😄)  
-- Learning languages like Chinese & Japanese  
+- Developing a game with godot (seriously 😄)  
 - Playing chess for fun  
 
 ---
