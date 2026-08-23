@@ -54,7 +54,7 @@ Here are a few repositories I’m most proud of:
 ## 🚀 What I’m Working On
 
 - Building full-stack & mobile applications  
-- Learning scalable backend architecture  
+- Learning scalable backend architecture & learning rust and go for backends.
 - Exploring cybersecurity & CTFs  
 - Developing a game with godot (seriously 😄)  
 - Playing chess for fun  
