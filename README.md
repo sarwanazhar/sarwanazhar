@@ -40,17 +40,6 @@ I’ve been building cool apps and solving problems with code long before the er
 
 ---
 
-## 🔭 Featured Projects
-
-Here are a few repositories I’m most proud of:
-
-### 📌 Apps & Games
-- **expo‑chessboard** – A multiplayer chessboard component for Expo/React Native  
-- **Online‑Chess‑App** – React Native chess app  
-- **CourseHub** – A learning platform project (frontend + backend)  
-
----
-
 ## 🚀 What I’m Working On
 
 - Building full-stack & mobile applications  
