@@ -1,66 +1,67 @@
 # 👋 Hi, I'm Sarwan Azhar
 
-<!-- Skill & Tech Badges -->
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+**Full-Stack & Mobile Software Engineer**  
+Specializing in high-performance web applications and cross-platform mobile apps with **Next.js, React, Flutter, Go, Node.js, and Laravel**.
 
-<!-- GitHub Followers & Stars -->
-![Profile Views](https://komarev.com/ghpvc/?username=sarwanazhar&label=Profile%20Views&color=0e75b6&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/sarwanazhar?style=social)
+📍 Karachi, Pakistan &nbsp;|&nbsp; 💼 Available for freelance contracts & technical partnerships
 
-**Full‑stack & Mobile App Developer | JavaScript | TypeScript | Go **
-
-🌍 Based in Karachi, Pakistan  
-🚀 Building modern full-stack and mobile applications
+<!-- Tech Stack Badges -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
 
 ---
 
-## 💻 About Me
+### 💼 What I Bring to the Table
 
-I'm a 17-year-old guy who’s just really curious about everything. I love diving into random interests, whether it's playing games, building them in Godot, experimenting with 3D stuff, or jumping into CTFs.
-
-I’ve been building cool apps and solving problems with code long before the era of AI and ChatGPT I'm definitely not just a "vibe coder." My core toolkit includes JavaScript, TypeScript, and Go, plus React Native for mobile projects. I’m always exploring new tech just cause of curiosity!
-
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** JavaScript, TypeScript, Python, Go  
-**Frontend:** React, Expo, Next.js  
-**Mobile:** React Native, Flutter, Jetpack Compose
-**Backend:** Node.js, Express, golang 
-**Tools:** Git, Vercel, Cloudinary, Docker
+- **Production & Commercial Experience:** Hands-on experience engineering real-world software products, writing maintainable code in professional team environments, and delivering on tight deadlines.
+- **Full-Stack Web Engineering:** Building responsive, SEO-optimized, and lightning-fast web applications with Next.js (App Router), React, and TypeScript.
+- **Cross-Platform Mobile:** Delivering smooth mobile user experiences across Android & iOS using Flutter and React Native.
+- **Scalable Backends & APIs:** Architecting reliable RESTful APIs, microservices, and real-time systems using Go (Gin) and Node.js.
+- **Engineering Standards:** Strong focus on clean Git workflows, type safety, modular design, and robust API security.
 
 ---
 
-## 🚀 What I’m Working On
+### 🛠️ Core Tech Stack
 
-- Building full-stack & mobile applications  
-- Learning scalable backend architecture & learning rust and go for backends.
-- Exploring cybersecurity & CTFs  
-- Developing a game with godot (seriously 😄)  
-- Playing chess for fun  
-
----
-
-## 📫 Let’s Connect
-
-I'm most active on Instagram for quick responses, or you can email me.
-
-⚠️ Portfolio is currently being updated.
-- 🌐 Portfolio: https://sarwanazhar.vercel.app/  
-- Instagram: https://instagram.com/s.m_sarwan_ali
-- LinkedIn: https://linkedin.com/in/sarwanazhar007  
-- Twitter: https://x.com/_SarwanAzhar_
-- Discord username: fast_typer
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | Next.js (App Router), React, TypeScript, Tailwind CSS, Three.js |
+| **Mobile** | Flutter, Dart, React Native / Expo |
+| **Backend** | Go (Gin, Gorilla), Node.js, Express, Laravel (PHP) |
+| **Databases & Cache** | MongoDB, PostgreSQL, Redis |
+| **DevOps & Tools** | Docker, Git, GitHub Actions, Vercel, Postman |
 
 ---
 
-⭐ *“Code is like chess: every move counts, and sometimes you just have to castle early.”*
+### 🚀 Featured Projects
+
+- **[CourseHub](https://github.com/sarwanazhar/CourseHub)** — Full-featured learning management SaaS platform built with Next.js, React, and modular APIs.  
+  👉 *[Live Demo](https://course-hub-frontend-phi.vercel.app/)*
+
+- **[Innovelous Web](https://github.com/sarwanazhar/innovelous-web-canvas)** — Next-generation digital agency web platform engineered with Next.js, React, TypeScript, and Three.js.  
+  👉 *[Live Demo](https://innovelous.com)*
+
+- **[BoardSar](https://github.com/sarwanazhar/boardsar)** — Real-time collaborative whiteboard platform with Go backend API, JWT authentication, and Next.js frontend.
+
+- **[Ani-Rem CLI](https://github.com/sarwanazhar/ani-rem)** — Lightweight, cross-platform CLI reminder tool written in Go with native system notifications and Google Calendar sync.
+
+- **[Hackathon Chess Trainer](https://github.com/sarwanazhar/hackathon-chess-trainer)** — AI-powered chess coaching platform with real-time Stockfish engine analysis and LLM commentary.
+
+---
+
+### 📬 Let's Work Together
+
+Have a project in mind, need to augment your development team, or looking for an on-demand technical partner?
+
+- 📧 **Email:** [sarwanazhar12345@gmail.com](mailto:sarwanazhar12345@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/sarwanazhar007](https://linkedin.com/in/sarwanazhar007)
+- 🌐 **Portfolio:** [sarwanazhar.vercel.app](https://sarwanazhar.vercel.app/)
+- 🐦 **Twitter / X:** [@_SarwanAzhar_](https://x.com/_SarwanAzhar_)
